@@ -1,3 +1,7 @@
 This is authentication file and it contains all secrets.
+<<<<<<< HEAD
+Created by Jay Prajapati.
+=======
 Created by Jay Prajapati.
 Removed all secrets.
+>>>>>>> feature/AT3-T540_Project_Setup
